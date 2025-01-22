@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rIvgRYuvJBHSXA2jkPJr-1" value="HEX:FF2168&lt;div&gt;RGB:255,033,104&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="rIvgRYuvJBHSXA2jkPJr-1" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;HEX:FF2168&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;RGB:255,033,104&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;1. 模特穿着产品的图；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;2. 背景图中间比较亮；&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF2168;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
